@@ -23,4 +23,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 
 ## System Requirements
 - Works on Windows
-- ~100 MB free space         
+- ~100 MB free space          
